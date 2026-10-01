@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Nama Kamu! 👋
+# Hi there, I'm K! 👋
 
 ### 🚀 Developer | 🚴 Cyclist | 🏃 Runner | 🏊 Swimmer
 
@@ -9,7 +9,7 @@
 </p>
 
 <!-- GANTI LINK DI BAWAH INI DENGAN LINK GIF KAMU -->
-<img src="https://raw.githubusercontent.com/username/username/main/dashboard.gif" alt="Dynamic 2D Animation Dashboard" width="100%" style="border-radius: 10px;" />
+<img src="https://github.com/DranShineee/DranShineee/blob/main/thisisme.gif" alt="Dynamic 2D Animation Dashboard" width="100%" style="border-radius: 10px;" />
 
 <br/>
 
