@@ -2,8 +2,6 @@
 
 # Hi there, I'm K! 👋
 
-### 🚀 Developer | 🚴 Cyclist | 🏃 Runner | 🏊 Swimmer
-
 <p align="center">
   <i>"Different Paths • Same Goal"</i>
 </p>
