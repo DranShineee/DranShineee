@@ -43,19 +43,27 @@ I believe progress comes from consistency, curiosity, and being willing to start
 ## `github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DranShineee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DranShineee&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=DranShineee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DranShineee&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DranShineee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="80%" alt="GitHub contribution streak" />
 </p>
 
+
 ## `contribution_activity`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DranShineee&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/DranShineee">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=DranShineee&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+      width="100%"
+      alt="GitHub contribution activity graph"
+    />
+  </a>
 </p>
+
 
 ## `beyond_the_screen`
 
