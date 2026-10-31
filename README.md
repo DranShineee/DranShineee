@@ -1,80 +1,81 @@
-<div align="center">
-
-# Hi there, I'm K! 👋
+# Hey, I'm DranShineee 👋
 
 <p align="center">
-  <i>"Different Paths • Same Goal"</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+with+code.;Learning+something+new+every+day.;Turning+ideas+into+reality.;Code.+Move.+Repeat." alt="Animated typing intro" />
 </p>
 
-<!-- GANTI LINK DI BAWAH INI DENGAN LINK GIF KAMU -->
-<img src="https://github.com/DranShineee/DranShineee/blob/main/thisisme.gif" alt="Dynamic 2D Animation Dashboard" width="100%" style="border-radius: 10px;" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0D1117,50:161B22,100:1F6FEB&text=DRANSHINEEE&fontColor=FFFFFF&fontSize=45&fontAlignY=45&animation=fadeIn&stroke=58A6FF&strokeWidth=1" width="100%" alt="Profile banner" />
+</p>
 
-<br/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Saat ini saya sedang mengerjakan **Project Rahasia**
-- 🌱 Sedang mendalami **Web Development & Cloud Architecture**
-- 💬 Tanyakan saya tentang **Coding, Sepeda, Lari, atau Renang**
-- ⚡ Fun fact: **Saya bisa bersepeda 300km, namun tidak kuat berlari 5km, dan Saya belum bisa berenang. hehehe**
-
----
-
-## 🏆 My 4 Pillars of Progress
-
-| Aktivitas | Deskripsi | Progress |
-| :--- | :--- | :--- |
-| **💻 CODING** | Still Learning. |	`[█░░░░░░░░░] 5%` |
-| **🚴 CYCLING** | Manifesting: EJJ 2030. |	`[███████░░░] 75%` |
-| **🏃 RUNNING** | Still Learning. |	`[██░░░░░░░░] 15%` |
-| **🏊 SWIMMING** | Still Learning. |	`[█░░░░░░░░░] 5%` |
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,html,css,tailwind,git,github,vscode,figma" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DranShineee&show_icons=true&theme=dark&bg_color=000000&title_color=4ade80&text_color=ffffff&icon_color=4ade80" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DranShineee&theme=dark&background=000000&ring=4ade80&fire=4ade80&currStreakLabel=4ade80" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DranShineee&layout=compact&theme=dark&bg_color=000000&title_color=4ade80&text_color=ffffff" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/khairan-adiii-6769493b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/DranShineee">
+    <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://instagram.com/nv.cndy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/312rdbytcxbbpu2ex2hb6spn7oh4?si=000f24d10a9e46ba">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://strava.com/athletes/khairanadiii">
-    <img src="https://img.shields.io/badge/Strava-FC5200?style=for-the-badge&logo=strava&logoColor=white" />
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/Status-Always_Learning-238636?style=for-the-badge" alt="Always learning" />
+  <img src="https://komarev.com/ghpvc/?username=DranShineee&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DranShinee&color=4ade80&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+## `whoami`
+
+```text
+Student      → Software & technology
+Mindset      → Learn by building
+Interests    → Web development, mobile apps, system design
+Outside code → Training, exploring, staying active
+Currently    → Learning, experimenting, improving
+```
+
+I'm a software development student who enjoys understanding how things work, building useful applications, and learning through hands-on projects.
+
+I believe progress comes from consistency, curiosity, and being willing to start before everything feels perfect.
+
+**Still learning. Still building. Always moving forward.**
+
+## `tech_stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,dart,flutter,html,css,js,mysql,git,github,vscode&perline=6" alt="Technology stack" />
+</p>
+
+## `github_stats`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DranShineee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DranShineee&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DranShineee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="80%" alt="GitHub contribution streak" />
+</p>
+
+## `contribution_activity`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DranShineee&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
+## `beyond_the_screen`
+
+```text
+01 / BUILD     — Turn ideas into working projects.
+02 / EXPLORE   — Keep learning beyond the classroom.
+03 / TRAIN     — Cycling, running, and strength training.
+04 / REPEAT    — Small improvements, consistently.
+```
+
+<p align="center">
+  <i>Different disciplines. Same mindset: show up and put in the work.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
+  <br />
+  <b>Thanks for stopping by.</b>
+  <br />
+  <sub>Built with curiosity, caffeine, and a suspicious number of commits.</sub>
+</p>
