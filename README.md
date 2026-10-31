@@ -54,15 +54,13 @@ I believe progress comes from consistency, curiosity, and being willing to start
 
 ## `contribution_activity`
 
-<p align="center">
-  <a href="https://github.com/DranShineee">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=DranShineee&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-      width="100%"
-      alt="GitHub contribution activity graph"
-    />
-  </a>
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DranShineee/DranShineee/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DranShineee/DranShineee/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DranShineee/DranShineee/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
 
 
 ## `beyond_the_screen`
